@@ -120,3 +120,18 @@ img{
 #services .service-description{
     text-align: center;
 }
+
+
+
+#projects > div{
+    width: 25%;
+    float: right;
+    padding: 5px;
+}
+
+#projects > div > div{
+    background-color: #fddbce;
+    border-radius: 5px;
+    text-align: center;
+
+}
